@@ -3,3 +3,4 @@ Here shall be all the names of people who contributed to the Higenku Project. Ou
 
 # A big Thanks to:
 - [lmtr0](https://github.com/lmtr0)
+- [GustavoPeredo](https://github.com/GustavoPeredo)
