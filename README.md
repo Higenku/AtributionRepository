@@ -6,3 +6,4 @@ Here shall be all the names of people who contributed to the Higenku Project. Ou
 - [GustavoPeredo](https://github.com/GustavoPeredo)
 - [br0hgue](https://github.com/br0hgue)
 - [Seyukki](https://github.com/Seyukki)
+- [i0ancy](https://github.com/i0ancy)
